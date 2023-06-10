@@ -70,3 +70,14 @@ __Step 8 – Segregating Employees according to risk associated with them__
 
 
 __Gave Employee Retention Strategies based on findings from analysis of the Data.__
+
+# Tools and Technologies used
+1) __Language__ : Python
+2) __IDE__ : Jupyter Notebook
+3) __Pandas__ : For loading the dataset and performing data wrangling
+4) __Matplotlib__: For data visualization.
+5) __Seaborn__: For data visualization.
+5) __NumPy__: For some math operations in predictions.
+6) __Sklearn__: For the purpose of analysis,prediction and evaluation
+7) __Method__: User Based Collaborative Filtering and Item based Collaborative Filtering
+
