@@ -79,5 +79,5 @@ __Gave Employee Retention Strategies based on findings from analysis of the Data
 5) __Seaborn__: For data visualization.
 5) __NumPy__: For some math operations in predictions.
 6) __Sklearn__: For the purpose of analysis,prediction and evaluation
-7) __Method__: User Based Collaborative Filtering and Item based Collaborative Filtering
+
 
