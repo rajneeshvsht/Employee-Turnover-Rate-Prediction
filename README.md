@@ -60,6 +60,7 @@ __Step 7 – Comparing performance of all models__
 2)	Found XG Boost perform best among all models.
 3)	Applied K – Fold Technique on all models.
 4)	Found XG Boost perform best among all models here also.
+5)	
 __Step 8 – Segregating Employees according to risk associated with them__
 1)	Chose XG Boost as final model to train our data and obtained probability score/value for all the employees.
 2)	Add separate column named probability in original dataset.
